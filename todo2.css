@@ -1,1 +1,18 @@
-
+.Highpriority {
+  background-color: red;
+  color:white;
+}
+.Mediumpriority {
+  background-color:orange; 
+  color:brown;
+}
+.Lowpriority {
+  background-color:green;
+  color: black;
+}
+.Alreadydone {
+  background-color:black;
+  color:cyan;
+  text-decoration:line-through;
+  
+}
