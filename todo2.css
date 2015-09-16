@@ -1,16 +1,16 @@
-.Highpriority {
+article h1 {
   background-color: red;
   color:white;
 }
-.Mediumpriority {
+article h2 {
   background-color:orange; 
   color:brown;
 }
-.Lowpriority {
+article h3 {
   background-color:green;
   color: black;
 }
-.Alreadydone {
+article h4 {
   background-color:black;
   color:cyan;
   text-decoration:line-through;
