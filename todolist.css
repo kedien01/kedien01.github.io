@@ -1,1 +1,18 @@
 
+<html>
+   <head>
+      <style>
+      .Highpriority {
+         color: red;
+      }
+      .Mediumpriority {
+         color: pink;
+      }
+      .Lowpriority {
+        color: gray;
+      }
+      .Alreadydone {
+         color:blue;
+         text-decoration:line-through;
+         
+      }
