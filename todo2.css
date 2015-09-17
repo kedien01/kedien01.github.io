@@ -1,16 +1,16 @@
-article h1 {
+ul.high {
   background-color: red;
   color:white;
 }
-article h2 {
+ul.medium {
   background-color:orange; 
   color:brown;
 }
-article h3 {
+ul.low {
   background-color:green;
   color: black;
 }
-article h4 {
+ul.done{
   background-color:black;
   color:cyan;
   text-decoration:line-through;
