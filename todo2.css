@@ -2,15 +2,15 @@ section.high {
   background-color: red;
   color:white;
 }
-ul.medium {
+section.medium {
   background-color:orange; 
   color:brown;
 }
-ul.low {
+section.low {
   background-color:green;
   color: black;
 }
-ul.done{
+section.done{
   background-color:black;
   color:cyan;
   text-decoration:line-through;
