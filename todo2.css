@@ -1,19 +1,23 @@
 section.high {
   background-color: red;
   color:white;
+  text-align:center;
 }
 section.medium {
   background-color:orange; 
   color:brown;
+  text-align: center;
 }
 section.low {
   background-color:green;
   color: black;
+  text-align:center;
 }
 section.done{
   background-color:black;
   color:cyan;
   text-decoration:line-through;
+  text-align:center;
 }
 section {
   height=200px;
