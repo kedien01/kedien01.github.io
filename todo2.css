@@ -15,3 +15,7 @@ section.done{
   color:cyan;
   text-decoration:line-through;
 }
+section {
+  height=200px
+  width =200px
+}
