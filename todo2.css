@@ -5,7 +5,6 @@ section.high {
 section.medium {
   background-color:orange; 
   color:brown;
-  display:none;
 }
 section.low {
   background-color:green;
