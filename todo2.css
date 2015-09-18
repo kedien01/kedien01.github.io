@@ -17,7 +17,9 @@ section.done{
 }
 section {
   height=200px;
-  width =200px;
+  width =300px;
   overflow:auto;
-  marg: 10 10 10 10;
+  margin: 10 10 10 10;
+  border:2px dotted rgb (0,0,0);
+  
 }
