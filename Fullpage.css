@@ -14,7 +14,7 @@ nav {
 }
 nav ul {
   margin-bottom:0;
-}
+  color:black;
 }
 nav li {
   display: inline;
@@ -23,14 +23,14 @@ section {
   float: left;
   width: 40%;
   height: 500px;
-  background-color: blue;
+  background-color: pink;
   color: white;
 }
 aside {
   float: left;
   width: 50%;
   height: 500px;
-  background-color: red;
+  background-color: light green;
 }
 footer {
   clear: both;
@@ -38,7 +38,7 @@ footer {
   text-align: center;
 }
 body {
-  background-color: black;
+  background-color: light grey;
    margin: 10px;
 }
        
