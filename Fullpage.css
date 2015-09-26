@@ -12,6 +12,10 @@ nav {
   margin-bottom: 0px;
   background-color: green;
 }
+nav ul {
+  margin-bottom:0;
+}
+}
 nav li {
   display: inline;
 }
