@@ -39,7 +39,7 @@ aside {
   text-align:justify;
 }
 footer {
-  
+  clear:both;
   background-color: yellow;
   text-align: center;
 }
