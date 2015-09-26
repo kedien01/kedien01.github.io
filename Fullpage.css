@@ -13,7 +13,7 @@ header {
 nav {
   margin-top: 20px;
   margin-bottom: 0px;
-  background-color: white;
+  background-color: #b0c4de;
   text-align:center;
 }
 nav ul {
@@ -28,13 +28,13 @@ section {
   float: left;
   width: 40%;
   height: 200px;
-  background-color: light green;
+  background-color: #b0c4de;
 }
 aside {
   float: left;
   width: 50%;
   height: 500px;
-  background-color: light green;
+  background-color: #b0c4de;
   color: black;
 }
 footer {
