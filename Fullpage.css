@@ -24,13 +24,13 @@ section {
   width: 40%;
   height: 500px;
   background-color: pink;
-  color: white;
 }
 aside {
   float: left;
   width: 50%;
   height: 500px;
   background-color: light green;
+  color: black;
 }
 footer {
   clear: both;
