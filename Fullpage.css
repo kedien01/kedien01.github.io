@@ -1,52 +1,38 @@
-
-                
-       nav {
-             width: 150px;
-             height: 150px;
-             background-color: black;
-             position: fixed;
-             margin: 50px;
-             padding:0px;
-                
-       }
-       nav li {
-            display: inline;
-         }
-       }
-       aside {
-             float: left;
-             width: 150px;
-             height: 150px;
-             background-color: pink;
-             position: absolute;
-             top: 170px;
-             right: 290px;
-             text-align:center;
-                
-       }
-         section {
-             float: right;
-             width: 20%;
-             height: 500px;
-             background-color: pink;
-             color: white;
-             text-align:center;
-                  
-         }
-         body {
-             background-color: lightblue;
-             width: 450px;
-             height: 350px;
-         }
-         nav li {
-            display: inline;
-         }
-         
-         }
-         footer {
-             clear: both;
-             background-color: yellow;
-         }
-         
-
-    
+header {
+  position: fixed;
+  background-color: #bbbbbb;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 20px;
+}
+nav {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  background-color: green;
+}
+nav li {
+  display: inline;
+}
+section {
+  float: left;
+  width: 20%;
+  height: 500px;
+  background-color: blue;
+  color: white;
+}
+aside {
+  float: left;
+  width: 80%;
+  height: 500px;
+  background-color: red;
+}
+footer {
+  clear: both;
+  background-color: yellow;
+}
+body {
+  background-color: black;
+   margin: 0px;
+}
+       
