@@ -7,7 +7,7 @@ header {
   height: 50px;
   text-align:left;
   font-size: italic;
-  font-size: 28pt;
+  font-size: 24pt;
   color:red;
 }
 nav {
@@ -26,14 +26,14 @@ nav li {
 }
 section {
   float: left;
-  width: 40%;
-  height: 200px;
+  width: 200px;
+  height: 100px;
   background-color: #b0c4de;
 }
 aside {
   float: left;
-  width: 50%;
-  height: 500px;
+  width: 80%;
+  height: 200px;
   background-color: #b0c4de;
   color: black;
 }
