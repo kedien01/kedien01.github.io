@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  background-color: red;
+  background-color: grey;
   top: 0px;
   left: 0px;
   width: 100%;
@@ -10,15 +10,16 @@ header {
 nav {
   margin-top: 20px;
   margin-bottom: 0px;
-  background-color: purple;
+  background-color: black;
+  text-align:center;
 }
 nav ul {
   margin-bottom:0;
-  color:black;
+  
 }
 nav li {
   display: inline;
-  color: red;
+
 }
 section {
   float: left;
