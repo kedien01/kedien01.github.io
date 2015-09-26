@@ -26,14 +26,14 @@ nav li {
 }
 section {
   float: left;
-  width: 200px;
+  width: 20%px;
   height: 100px;
   background-color: #b0c4de;
 }
 aside {
   float: left;
-  width: 80%;
-  height: 200px;
+  width: 50%;
+  height: 100px;
   background-color: #b0c4de;
   color: black;
   text-align:justify;
