@@ -39,6 +39,10 @@ aside {
   right:100px;
 
 }
+p.left {
+  text-align:left;
+  font: italic;
+}
 footer {
   clear:both;
   background-color: yellow;
