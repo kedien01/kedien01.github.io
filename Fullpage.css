@@ -9,7 +9,7 @@ header {
   font-size: italic;
   font-size: 24pt;
   color:red;
-  width: 0%;
+  width: 20%;
 }
 nav {
   margin-top: 20px;
@@ -47,7 +47,7 @@ p.left {
 }
 footer {
   clear:both;
-  background-color: yellow;
+  background-color: white;
   text-align: center;
 }
 body {
