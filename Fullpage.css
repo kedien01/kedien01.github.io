@@ -39,6 +39,7 @@ aside {
   background-color: white;
   color: black;
   float: right;
+  z-index:-1;
   
 
 }
