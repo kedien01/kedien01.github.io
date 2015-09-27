@@ -55,5 +55,6 @@ body {
   background-color: white;
    margin: 10px;
    background-image: url(http://media.mediatemple.netdna-cdn.com/wp-content/uploads/2011/04/cssn-114.jpg);
+   z-index: +1;
 }
        
