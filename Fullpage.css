@@ -31,11 +31,12 @@ section {
   background-color: pink;
 }
 aside {
-  float: center;
   width: 50%;
   height: 600px;
   background-color: white;
   color: black;
+  position:absolute;
+  left:50px;
 
 }
 footer {
