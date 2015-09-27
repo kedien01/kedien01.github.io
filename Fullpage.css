@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  background-color: #b0c4de;
+  background-color: #6495ed;
   top: 0px;
   left: 0px;
   width: 50%;
@@ -13,7 +13,7 @@ header {
 nav {
   margin-top: 20px;
   margin-bottom: 0px;
-  background-color: #b0c4de;
+  background-color: #6495ed;
   text-align:center;
 }
 nav ul {
@@ -28,13 +28,13 @@ section {
   float: left;
   width: 30%px;
   height: 200px;
-  background-color: #b0c4de;
+  background-color: #6495ed;
 }
 aside {
   float: right;
   width: 50%;
   height: 600px;
-  background-color: #b0c4de;
+  background-color: #6495ed;
   color: black;
 
 }
@@ -44,7 +44,7 @@ footer {
   text-align: center;
 }
 body {
-  background-color: #b0c4de;
+  background-color: #6495ed;
    margin: 10px;
 }
        
