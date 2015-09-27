@@ -1,15 +1,16 @@
 header {
   position: fixed;
-  background-color: red;
+  background-color: blue navy;
   top: 0px;
   left: 0px;
-  width: 30%;
+  width: 50%;
   height: 10px;
   text-align:left;
   font-style: italic;
   font-size: 20pt;
   color:black;
   width: 20%;
+  margin:10px;
   
 }
 nav {
