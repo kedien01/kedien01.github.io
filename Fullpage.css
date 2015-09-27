@@ -1,6 +1,6 @@
 header {
   position: fixed;
-  background-color: navy blue;
+  background-color: red;
   top: 0px;
   left: 0px;
   width: 30%;
@@ -39,6 +39,7 @@ aside {
   background-color: navy blue;
   color: black;
   float: right;
+  z-index:+1;
 
   
 
@@ -56,6 +57,6 @@ body {
   background-color: navy blue;
    margin: 10px;
    background-image: url(http://www.psdgraphics.com/file/dark-blue-background.jpg);
-   z-index: -1;
+   
 }
        
