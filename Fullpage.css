@@ -35,8 +35,8 @@ aside {
   height: 600px;
   background-color: pink;
   color: black;
-  position:absolute;
-  right:100px;
+  float: right;
+  
 
 }
 p.left {
