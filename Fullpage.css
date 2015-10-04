@@ -32,9 +32,9 @@ nav li {
 }
 section {
   float: left;
-  width: 10%px;
+  width: 50%px;
   height: 200px;
-  padding:50px;
+  padding:10px;
   background-color: navy blue;
 }
 aside {
