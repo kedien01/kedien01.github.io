@@ -1,35 +1,35 @@
 
-h1 {
-  color:blue;
-  font-size: 28pt;
-}
-main {
-  background-color: gray;
-  margin: 0px;
-  width:100%;
-  height: 40px;
-}
-body {
-  
-}
-}
-     <body>
-     <p> Busy Busy
-     <ul>
-     <li>About</li>
-             <li>Papers</li>
-             <li>Donate</li>
-             </ul>
-         </nav>
-         <section>
-             This would be a good place for a table of contents
-         </section>
-         <aside>
-             This is the main content area
-             <img src="http://interactivepython.org/runestone/static/webfundamentals/_images/img_sem_elements.gif" />
-         </aside>
-         <footer>
-             Copyright Area, Contact Us.
-         </footer>
-     </body>
- </html>
+.first {
+        margin-top:0px;
+        margin-bottom:0px;
+       
+        top:0px;
+        width:80%;
+        height:300px;
+        background-color:lightblue;
+       }
+        
+      }
+      .high {
+        color:white; 
+        background-color:red;
+      }
+      .mediun {
+        color:white;
+        background-color:orange;
+      }
+     .low {
+       color:black;
+       background-color:gray;
+     }
+     .done {
+       color:cyan;
+       background-color:black;
+       
+     }
+     p {
+       color: red;
+       font-size: 18pt;
+     }
+     {
+     display: inline; 
