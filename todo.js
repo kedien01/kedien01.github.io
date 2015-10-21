@@ -1,15 +1,15 @@
 
 newButton = function() {
 
-var ed
-var edd
-var eddie
+var w
+var x
+var y
 var li
 var contents
 
-ed = document.querySelector("#todolist");
-edd = document.querySelector("#task").value;
-eddie = document.querySelector("#priority").value;
+w = document.querySelector("#todolist");
+x = document.querySelector("#task").value;
+y = document.querySelector("#priority").value;
 
 checker = document.createElement("input");
 li = document.createElement("li");
@@ -17,12 +17,12 @@ li = document.createElement("li");
 checker.type = "checkbox";
 checker.onClick= "doneTask();"
 
-contents = document.createTextNode(edd);
-li.classList.add(eddie);
+contents = document.createTextNode(x);
+li.classList.add(y);
 li.appendChild(checker);
 li.appendChild(contents);
 
-ed.appendChild(li);
+w.appendChild(li);
 
 
 
