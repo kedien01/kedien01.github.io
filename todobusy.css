@@ -1,19 +1,19 @@
 
 h1 {
-  color:#0077FF;
+  color:blue;
   text-decoration:underline;
 }
 
 h2 {
-  color:#1166EE;
+  color:red;
 }
 
 h3, h4, h5, h6 {
-  color:#2266DD;
+  color:blue;
 }
 
 body {
-  background-color: #113377;
+  background-color: blue;
   margin-top:50px;
 }
 
@@ -27,10 +27,7 @@ section>p{
     margin-left:20px;
 }
 
-#c>img {
-    margin-top:15;
-    margin-left:15px;
-}
+
 
 #b{
   background-color:cyan;
@@ -39,9 +36,8 @@ section>p{
   height:100%;
 }
 
-#b>h1, h2, h3, h4, h5, p, ul, ui{
-  margin-left:25px;
-}
+
+
 
 
 nav ul{
@@ -54,13 +50,11 @@ nav li{
   display: inline;
 }
 #a{
-  color:#FFFFFF;
+  color:red;
   text-align:center;
   display:inline;
 
-  background-color:#AA33CC;
-  -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-  animation: mymove 5s infinite;
+  background-color:green;
   position: fixed;
   left:0;
   top: 0px;
@@ -68,29 +62,14 @@ nav li{
   width: 100%;
 }
 
-@-webkit-keyframes mymove {
-    50% {background-color: blue;}
-}
-
-/* Standard syntax */
-@keyframes mymove {
-    50% {background-color: #4477AA;}
-}
-
-
-td, ul {
-  color: #3355DD;
-}
-
 p {
-  color: #3366BB;
+  color: black;
 }
   
 
-
 section.floater {
   margin:5px;
-  border: 2px solid black;
+  border: 2px black;
   overflow: auto;
   display: inline;
   float:left;
@@ -179,11 +158,11 @@ a:hover {
 }
 
 .low {
-  color:#aaaaaa;
+  color:red;
 }
 
 .done {
-  color:#FFFFFF;
+  color:pink;
   text-decoration:line-through;
 }
 
@@ -195,7 +174,7 @@ a:hover {
 }
 
 #todos {
-  background-color:#4488CC;
+  background-color:green;
   width:50%;
   height:300px;
   margin-left:auto;
