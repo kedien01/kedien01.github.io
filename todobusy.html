@@ -1,47 +1,10 @@
 <html>
   <head>
+    <link rel="stylesheet" href="todobusy.css" type="text/css">
     <script type = "text/javascript" src="http://bnmnetp.github.io/CS130/listsaver.js"></script>
     <script type = "text/javascript" src="todo.js"></script>
-    <style>
-    .Low {
-      color: gray;
-      
-    }
-    .High {
-      color: red;
-      
-      
-    }
-    .Medium {
-      color: orange;
-      
-    }
-    .Done {
-      text-decoration: line-through;
-      color: cyan;
-      
-    }
-    aside {
-      width: 590px;
-      height: 20px;
-      background-color: lightblue;
-      text-align: center;
-      margin: 10px
-    }
-    main {
-      background-color: lightblue;
-      width: 600px;
-      height: 300px;
-      text-align: left;
-    }
-    body {
-      background-color: white;
-      width: 450px;
-      height: 350px;
-      text-align: center;
-    }
-    </style>
-    </head>
+  
+  </head>
     <h1> Busy Busy </h1>
     <body>
       <aside>
@@ -51,10 +14,10 @@
           <option>Medium</option>
           <option>Low</option>
         </select>
-        
           <input type="button" value="New" onclick="NewText()" />
       </aside>
       <main>
+        <ul> id="tasklist"</ul>
       </main>
     </body>
           <script type ="text/javascript">
