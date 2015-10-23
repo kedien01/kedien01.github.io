@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
     
        <script type="text/javascript" src="http://bnmnetp.github.io/CS130/listsaver.js"></script>
@@ -21,7 +21,7 @@
        }
         
       .High {
-        color:green; 
+        color:red; 
         
       }
       .Medium {
@@ -44,7 +44,7 @@
     
     <body>
         <section class="first">
-          <ul id= "olid"> </ul>
+          <ul id= "x"> </ul>
          
         </section>
         <select id="priority">
@@ -59,7 +59,7 @@
         <button onclick="Func();"> New </button>
         <script type="text/javascript">
          Func = function() {
-         var x=document.querySelector("#olid");
+         var x=document.querySelector("#x");
          li1=document.createElement("li");
          var cbox=document.createElement("input");
          cbox.type="checkbox"; 
@@ -77,7 +77,7 @@
             } else {
                this.parentNode.classList.remove("done")
             }
-        localSave("olid");
+        localSave("a");
          }
  
      </script>
