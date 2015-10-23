@@ -13,15 +13,14 @@ NewText = function(){
         ul.appendChild(li)
         t.appendChild(ul)
         localSave("tasklist");
-        
-      }
-      boxChecked = function(){
+}
+boxChecked = function(){
         if (this.checked){
-          this.parentNode.classList.add("done");
-          localSave("tasklist");
-      }
-        else{
-          this.parentNode.classList.remove("done");
-          localSave("tasklist");
+                this.parentNode.classList.add("done");
+                localSave("tasklist");
         }
-      }
+        else{
+                this.parentNode.classList.remove("done");
+                localSave("tasklist");
+        }
+}
