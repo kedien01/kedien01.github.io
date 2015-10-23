@@ -1,5 +1,5 @@
 
- NewText = function(){
+NewText = function(){
         t = document.querySelector("main")
         ul = document.querySelector("#tasklist")
         li = document.createElement("li")
